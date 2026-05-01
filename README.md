@@ -1,4 +1,4 @@
-# 🔐 CipherMath 
+#  CipherMath 
 
 ![CipherMath Banner](https://img.shields.io/badge/CipherMath-Project-blue?style=for-the-badge&logo=react)
 ![Live Status](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
